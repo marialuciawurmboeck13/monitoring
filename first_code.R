@@ -7,3 +7,5 @@ Duccio Rocchini
 ### Data used 📡
 data taken from the [Earth obseravtory] (https://earthobservatory.nasa.gov/)
 
+install.packages("terra")
+
